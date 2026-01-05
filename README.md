@@ -68,19 +68,9 @@ I am a **Full Stack Developer** focused on building high-performance web applica
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Coding Activity Graph
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vibush01&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vibush01&theme=tokyonight&hide_border=false&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
-</div>
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vibush01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Vibush01 Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibush01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </div>
 
 ### 🏆 Trophies
