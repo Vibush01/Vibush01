@@ -19,7 +19,7 @@ I am a **Full Stack Developer** focused on building high-performance web applica
 - 🔭 I’m currently working as a **Full Stack Developer @Headstart** building scalable dashboards.
 - 🌱 I’m currently exploring **Advanced System Design & Cloud Security**.
 - 👯 I’m looking to collaborate on **Open Source React & Node.js projects**.
-- 💬 Ask me about **React 19, Hono, Gridstack.js, and Chrome Extensions**.
+- 💬 Ask me about **MERN Stack, Hono, Firebase, Gridstack.js, and Chrome Extensions**.
 - 📫 How to reach me: **vibush01@gmail.com**
 
 ---
@@ -48,13 +48,6 @@ I am a **Full Stack Developer** focused on building high-performance web applica
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vibush01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibush01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
 
 ### 🏆 Trophies
 
