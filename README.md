@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi there, I'm Vivek Kumar 👋</h1>
 <h3 align="center">Full Stack Developer | Performance & Scalability Enthusiast</h3>
 
@@ -18,7 +16,7 @@
 
 I am a **Full Stack Developer** focused on building high-performance web applications and scalable browser extensions. I specialize in the **MERN stack**, **React 19**, and modern backend tooling like **Hono**. Currently, I am optimizing backend latency and modernizing DevOps workflows.
 
-- 🔭 I’m currently working as a **Full Stack Developer @ Headstart** building scalable dashboards.
+- 🔭 I’m currently working as a **Full Stack Developer @Headstart** building scalable dashboards.
 - 🌱 I’m currently exploring **Advanced System Design & Cloud Security**.
 - 👯 I’m looking to collaborate on **Open Source React & Node.js projects**.
 - 💬 Ask me about **React 19, Hono, Gridstack.js, and Chrome Extensions**.
@@ -54,7 +52,7 @@ I am a **Full Stack Developer** focused on building high-performance web applica
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vibush01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Vibush01's Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibush01&theme=tokyonight&hide_border=true&background=0d1117" alt="Vibush01's Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibush01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
