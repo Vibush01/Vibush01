@@ -51,11 +51,10 @@ I am a **Full Stack Developer** focused on building high-performance web applica
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibush01&theme=tokyonight&hide_border=true&background=0d1117" alt="Vibush01's Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibush01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vibush01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibush01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
 
 ### 🏆 Trophies
 
