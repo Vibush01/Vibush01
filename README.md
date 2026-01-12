@@ -79,38 +79,10 @@ I am a **Full Stack Developer** focused on building high-performance web applica
   <img src="https://github-profile-trophies.vercel.app/?username=Vibush01&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
 </div> -->
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vibush01&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Vibush01's Stats" />
-</div>
 
-### 🏆 Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vibush01&theme=flat&no-frame=true&margin-w=15&row=1" alt="Vibush01's Trophies" />
-</div>
+---
 
-### 📊 GitHub Stats & Trophies
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vibush01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vibush01's GitHub Stats" />
-  </a>
-
-  <br/>
-  <br/>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibush01&layout=compact&theme=tokyonight&hide_border=true" alt="Vibush01's Top Languages" />
-  </a>
-
-  <br/>
-  <br/>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vibush01&theme=flat&no-frame=true&margin-w=15&row=1" alt="Vibush01's Trophies" />
-  </a>
-</div
-
-  ### 📈 Coding Activity
+### 📈 Coding Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibush01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </div>
@@ -128,11 +100,20 @@ I am a **Full Stack Developer** focused on building high-performance web applica
   <br/>
   <br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Vibush01&theme=gitdimmed&no-frame=true&margin-w=15" alt="Vibush01's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vibush01&theme=flat&no-frame=true&margin-w=15&row=1" alt="Vibush01's Trophies" />
 </div>
 
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=Vibush01&theme=dark&hide_border=true" alt="Vibush01's Streak" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Vibush01&theme=dark&hide_border=true" alt="Vibush01's Streak" />
+</div>
+
+---
+
+<p align="center">
+  <i>Let's connect and build something amazing!</i>
+</p>
 
 ---
 
