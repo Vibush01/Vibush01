@@ -81,25 +81,22 @@ I am a **Full Stack Developer** focused on building high-performance web applica
 
 
 
- ### 🏆 GitHub Stats & Trophies
+### 🏆 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vibush01&show_icons=true&theme=dark&hide_border=true" alt="Vibush01's Stats" />
+  <img src="https://streak-stats.demolab.com?user=Vibush01&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Vibush01's Streaming Stats" />
   
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibush01&layout=compact&theme=dark&hide_border=true" alt="Vibush01's Top Languages" />
-
   <br/>
   <br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Vibush01&theme=flat&no-frame=true&margin-w=15&row=1" alt="Vibush01's Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibush01&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Vibush01's Top Languages" />
 </div>
 
----
+<br/>
 
-<p align="center">
-  <i>Let's connect and build something amazing!</i>
-</p>
+### 🏅 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vibush01&theme=gitdimmed&no-frame=true&margin-w=4" alt="Vibush01's Trophies" />
+</div>
 
 ---
 
