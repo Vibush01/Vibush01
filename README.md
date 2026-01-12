@@ -108,7 +108,31 @@ I am a **Full Stack Developer** focused on building high-performance web applica
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Vibush01&theme=flat&no-frame=true&margin-w=15&row=1" alt="Vibush01's Trophies" />
   </a>
+</div
+
+  ### 📈 Coding Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibush01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </div>
+
+<br/>
+
+### 🏆 GitHub Stats & Trophies
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vibush01&show_icons=true&theme=dark&hide_border=true" alt="Vibush01's Stats" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibush01&layout=compact&theme=dark&hide_border=true" alt="Vibush01's Top Languages" />
+
+  <br/>
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Vibush01&theme=gitdimmed&no-frame=true&margin-w=15" alt="Vibush01's Trophies" />
+</div>
+
+
+<img src="https://streak-stats.demolab.com?user=Vibush01&theme=dark&hide_border=true" alt="Vibush01's Streak" />
 
 ---
 
