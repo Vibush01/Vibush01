@@ -95,12 +95,6 @@ I am a **Full Stack Developer** focused on building high-performance web applica
   <img src="https://github-profile-trophy.vercel.app/?username=Vibush01&theme=flat&no-frame=true&margin-w=15&row=1" alt="Vibush01's Trophies" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vibush01&theme=dark&hide_border=true" alt="Vibush01's Streak" />
-</div>
-
 ---
 
 <p align="center">
