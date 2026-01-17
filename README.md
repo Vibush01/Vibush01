@@ -24,7 +24,7 @@ I am a **Full Stack Developer** focused on building high-performance web applica
 
 ---
 
-### 💻 Tech Stack
+# 💻 Tech Stack
 
 <div align="left">
 
@@ -73,10 +73,18 @@ I am a **Full Stack Developer** focused on building high-performance web applica
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibush01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </div>
 
-### 🏆 Trophies
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vibush01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vibush01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vibush01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=Vibush01&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
 </div> 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
