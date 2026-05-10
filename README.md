@@ -94,6 +94,14 @@ I am a **Full Stack Developer** focused on building high-performance web applica
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibush01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </div>
 
+---
+
+## Profile Views
+
+[![Vivek kumar profile views](https://u8views.com/api/v1/github/profiles/126843555/views/day-week-month-total-count.svg)](https://u8views.com/github/Vibush01)
+
+---
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
