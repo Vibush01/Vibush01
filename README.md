@@ -17,12 +17,13 @@
 
 # 💫 About Me
 
-I am a **Full Stack Developer** focused on building high-performance web applications and scalable browser extensions. I specialize in the **MERN stack**, **React 19**, and modern backend tooling like **Hono**. Currently, I am optimizing backend latency and modernizing DevOps workflows.
+I am a **Full Stack Developer** focused on building high-performance web applications and scalable architectures. I specialize in the **MERN stack**, **React 19**, and modern backend tooling like **Hono**. I don't just write code; I architect systems that scale, optimize backend latency, and integrate complex third-party APIs. Currently, I am building in public and mastering core software engineering fundamentals.
 
-- 🔭 I’m currently working as a **Full Stack Developer @Headstart** building scalable dashboards.
-- 🌱 I’m currently exploring **Advanced System Design & Cloud Security**.
-- 👯 I’m looking to collaborate on **Open Source React & Node.js projects**.
-- 💬 Ask me about **MERN Stack, Hono, Firebase, Gridstack.js, and Chrome Extensions**.
+- 🔭 I’m currently working on **building scalable SaaS features and contributing to Open Source**.
+- 🌱 I’m currently learning **Advanced Data Structures, Algorithms, and System Architecture**.
+- 💼 Previous Experience: **Core Web Developer Intern @Headstart** | **SDE Intern @Bluestock Fintech**.
+- 👯 I’m looking to collaborate on **Open Source React, Node.js, and Hono projects**.
+- 💬 Ask me about **MERN Stack, OAuth Integrations, Firebase, Gridstack.js, and secure API design**.
 - 📫 How to reach me: **vibush01@gmail.com**
 
 ---
@@ -110,3 +111,5 @@ I am a **Full Stack Developer** focused on building high-performance web applica
 <p align="center">
   <i>Let's connect and build something amazing!</i>
 </p>
+
+```
