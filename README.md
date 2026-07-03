@@ -1,13 +1,22 @@
 <h1 align="center">Hi there, I'm Vivek Kumar 👋</h1>
-<h3 align="center">Full Stack Developer | Performance & Scalability Enthusiast</h3>
+
+<h3 align="center">
+Software Engineer • Full Stack Developer • AI Full Stack Engineer (Learning)
+</h3>
+
+<p align="center">
+Building scalable web applications, modern backend systems, and AI-powered software.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vibush01">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:vibush01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://vibush01.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
@@ -17,99 +26,115 @@
 
 # 💫 About Me
 
-I am a **Full Stack Developer** focused on building high-performance web applications and scalable architectures. I specialize in the **MERN stack**, **React 19**, and modern backend tooling like **Hono**. I don't just write code; I architect systems that scale, optimize backend latency, and integrate complex third-party APIs. Currently, I am building in public and mastering core software engineering fundamentals.
+I'm a **Software Engineer** passionate about building scalable web applications, modern backend systems, and AI-powered products.
 
-- 🔭 I’m currently working on **building scalable SaaS features and contributing to Open Source**.
-- 🌱 I’m currently learning **Advanced Data Structures, Algorithms, and System Architecture**.
-- 💼 Previous Experience: **Core Web Developer Intern @Headstart** | **SDE Intern @Bluestock Fintech**.
-- 👯 I’m looking to collaborate on **Open Source React, Node.js, and Hono projects**.
-- 💬 Ask me about **MERN Stack, OAuth Integrations, Firebase, Gridstack.js, and secure API design**.
-- 📫 How to reach me: **vibush01@gmail.com**
+I have hands-on experience building production-ready applications using **React, Node.js, Express.js, TypeScript, MongoDB, Firebase, and AWS** through multiple internships.
 
----
+Currently, I'm expanding into **AI Engineering** by learning **LLMs, RAG, AI Agents, Vector Databases, and System Design** while continuing to strengthen my Full Stack Development skills.
 
-## 💻 Tech Stack
-
-<div align="left">
-  <br/>
-  Languages
-  <br/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/>
-  Frontend & Mobile Development
-  <br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gridstack.js-0078D4?style=for-the-badge&logo=javascript&logoColor=white" />
-  <br/>
-  Backend Development
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
-  <br/>
-  Databases & Cloud Services
-  <br/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <br/>
-  Authentication & Security
-  <br/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infisical-B7F93E?style=for-the-badge&logo=infisical&logoColor=black" />
-  <br/>
-  Tools, DevOps & Architecture
-  <br/>
-  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/clickup-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dodo_Payments-FFD700?style=for-the-badge&logo=cashapp&logoColor=black" />
-  <br/>
-  AI Tools
-  <br/>
-  <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai-gym&logoColor=white"/>
-</div>
+- 🚀 Building **production-ready Full Stack & AI applications**
+- 🧠 Practicing **Data Structures & Algorithms** and **System Design**
+- ☁️ Learning **Docker, Redis, AWS & CI/CD**
+- 🌱 Contributing to **Open Source**
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, Firebase, OAuth, JWT & REST APIs**
+- 📫 Reach me at **vibush01@gmail.com**
 
 ---
 
-## 📈 Coding Activity Graph
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,html,css,mysql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
+</p>
+
+React Hook Form • Gridstack.js
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+REST APIs • GraphQL • Hono
+
+### Database & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,aws,vercel,netlify" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+</p>
+
+Jira • pnpm • Infisical • ClickUp • Slack
+
+### Authentication
+
+JWT • OAuth • Firebase Authentication
+
+### AI
+
+OpenAI • Google Gemini • Claude
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vibush01&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibush01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vibush01&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true"/>
+
 </div>
 
 ---
 
-## Profile Views
+## 👀 Profile Views
 
-[![Vivek kumar profile views](https://u8views.com/api/v1/github/profiles/126843555/views/day-week-month-total-count.svg)](https://u8views.com/github/Vibush01)
+<p align="center">
+
+<a href="https://u8views.com/github/Vibush01">
+
+<img src="https://u8views.com/api/v1/github/profiles/126843555/views/day-week-month-total-count.svg"/>
+
+</a>
+
+</p>
 
 ---
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+
+</p>
 
 ---
 
 <p align="center">
-  <i>Let's connect and build something amazing!</i>
-</p>
 
-```
+⭐ Always Learning • 🚀 Always Building • 💡 Always Improving
+
+</p>
